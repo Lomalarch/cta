@@ -23,7 +23,7 @@ $this->registerModule(
         'permissions' => 'usage,contentadmin',
         'type'        => 'plugin',
         'priority'    => 1001,                                        // Must be higher than dcLegacyEditor priority (ie 1000)
-        'support'     => 'https://github.com/Lomalarch/??????????', // Support URL
+        'support'     => 'https://github.com/Lomalarch/cta'//, // Support URL
         // 'details'     => 'https://noecendrier.fr', // Details
 /*        'settings'    => [                                            // Settings
             'self' => '',
